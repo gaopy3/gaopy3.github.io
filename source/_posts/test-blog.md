@@ -1,7 +1,9 @@
 ---
-title: test_blog
+title: A Small Start
 date: 2024-06-30 16:15:47
 tags:
+  - notes
 ---
+This is a small starting note for the site.
 
-这是一篇测试文章
+More writing and project updates will be added here over time.

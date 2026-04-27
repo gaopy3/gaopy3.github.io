@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Panyu's blog
-subtitle: ''
-description: ''
-keywords:
-author: Panyu
+title: Panyu Gao
+subtitle: Engineer, builder, and open source contributor
+description: Personal site of Panyu Gao, sharing engineering notes, open source work, and practical experiments.
+keywords: Panyu Gao, gaopy3, engineer, open source, seekdb, oceanbase
+author: Panyu Gao
 language: en
-timezone: ''
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://gaopy3.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -61,7 +61,7 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 10
+  per_page: 5
   order_by: -date
 
 # Category & Tag

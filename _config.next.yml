@@ -1,0 +1,68 @@
+custom_file_path:
+  style: source/_data/styles.styl
+
+scheme: Mist
+darkmode: false
+
+menu:
+  home: / || fa fa-home
+  about: /about/ || fa fa-user
+  archives: /archives/ || fa fa-archive
+  GitHub: https://github.com/gaopy3 || fab fa-github
+
+menu_settings:
+  icons: true
+  badges: false
+
+sidebar:
+  position: left
+  display: always
+  padding: 18
+
+avatar:
+  url: https://avatars.githubusercontent.com/u/33291294?v=4
+  rounded: true
+  rotated: false
+
+site_state: true
+
+social:
+  GitHub: https://github.com/gaopy3 || fab fa-github
+  E-Mail: mailto:gao.panyu@qq.com || fa fa-envelope
+  Site: https://gaopy3.github.io || fa fa-link
+
+social_icons:
+  enable: true
+  icons_only: false
+  transition: true
+
+links_settings:
+  icon: fa fa-briefcase
+  layout: block
+
+links:
+  SeekDB: https://github.com/gaopy3/seekdb
+  OceanBase: https://github.com/gaopy3/oceanbase
+
+toc:
+  enable: false
+
+footer:
+  since: 2024
+  powered: false
+
+back2top:
+  enable: true
+  sidebar: true
+  scrollpercent: true
+
+reading_progress:
+  enable: true
+  start_at: left
+  position: top
+  reversed: false
+  color: "#2f6feb"
+  height: 3px
+
+github_banner:
+  enable: false

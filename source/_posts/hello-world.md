@@ -1,38 +1,21 @@
 ---
-title: Hello World
+title: Welcome
+date: 2024-06-29 10:00:00
+tags:
+  - intro
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+This site is where I share engineering notes, experiments, and selected open source work.
 
-## Quick Start
+You can start with the [About](/about/) page or browse the latest posts from the homepage.
 
-### Create a new post
+## Current Themes
 
-``` bash
-$ hexo new "My New Post"
-```
+- Data systems and storage
+- Developer tooling
+- Open source projects
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+## Featured Links
 
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+- [GitHub Profile](https://github.com/gaopy3)
+- [SeekDB](https://github.com/gaopy3/seekdb)
+- [OceanBase](https://github.com/gaopy3/oceanbase)
